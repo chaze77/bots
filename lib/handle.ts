@@ -6,8 +6,7 @@
 const API = `https://api.telegram.org/bot${process.env.BOT_TOKEN}`;
 
 // ---------- НАСТРОЙКИ: меняйте здесь ----------
-const ORDER_URL =
-  'https://miniapps-jlegu55sx-chaze77s-projects.vercel.app/apply/'; // сайт с формой заявки
+const ORDER_URL = 'https://mini-apps-landing.vercel.app/#lead-form'; // сайт с формой заявки
 const MANAGER_URL = 'https://t.me/daniyarch'; // ваш личный Telegram
 const CHANNEL_URL = 'https://t.me/avto_lenta_kg'; // поменяйте, когда смените адрес канала
 
